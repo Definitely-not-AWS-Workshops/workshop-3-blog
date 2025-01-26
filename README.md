@@ -1,6 +1,6 @@
 # GitOps-Based Platform Engineering with AWS EKS, ArgoCD, and Crossplane
 
-A massive amount of work needs to be done . . . 🙃
+Building stuff from 0 -> 1. A massive amount of work needs to be done . . . 🙃
 
 ![AWS architecture](aws-architecture.svg?featherlight=false&width=100pc)
 
